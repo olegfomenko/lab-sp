@@ -1,0 +1,20 @@
+7
+S aAbc
+A Ba
+A cc
+B abc
+B Cbc
+C <null>
+C a
+abcabc
+
+8
+S BA
+A aBA
+A <null>
+B DC
+C bDC
+C <null>
+D xSy
+D z
+zbxzazbzy
